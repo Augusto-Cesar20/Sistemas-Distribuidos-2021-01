@@ -1,0 +1,5 @@
+Instruções para compilar no terminal:
+gcc server.c -o servidor
+./servidor
+gcc client.c -o cliente
+./cliente
